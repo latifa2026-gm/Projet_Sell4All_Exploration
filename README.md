@@ -587,7 +587,7 @@ PROJET_SELL4ALL/
 
 ## Description des fichiers
 
-### `Exploration_Anayse_sell4all.ipynb`
+### `Exploration&Anayse_sell4all.ipynb`
 
 Notebook Jupyter contenant :
 
