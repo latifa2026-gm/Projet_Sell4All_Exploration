@@ -577,9 +577,9 @@ dataset-sell4all-clean.csv
 Le dépôt final contient les fichiers suivants :
 
 ```text
-Sell4All/
+PROJET_SELL4ALL/
 │
-├── Exploration_Anayse_sell4all.ipynb
+├── Exploration&Anayse_sell4all.ipynb
 ├── dataset-sell4all.csv
 ├── dataset-sell4all-clean.csv
 └── README.md
@@ -629,6 +629,6 @@ Documentation du projet contenant :
 * la conclusion.
 
 ---
-# 10. Conclusion
+# 9. Conclusion
 
 Ce projet a permis de réaliser une première étape de **préparation et d'exploration des données** pour l'entreprise Sell4All.Ce travail constitue donc une première étape essentielle avant la mise en place d'un modèle d'intelligence artificielle.
